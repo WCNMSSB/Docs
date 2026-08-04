@@ -15,6 +15,8 @@ sidebar_label: 使用IonStack Root 你的Quest3/3s
 
 所有责任需您自己承担！！！
 
+！！！请自行承担使用风险！！！
+
 :::
 
 # 简介
@@ -26,15 +28,15 @@ sidebar_label: 使用IonStack Root 你的Quest3/3s
 **注意**：
  千万不要写入任何分区！！！！！！！
 
- Quest3/3s目前没有任何方法解锁bl
+ Quest3/3s目前没有任何方法解锁`Boot Loader`
 
 :::
 
-因为是临时root——是依靠加载内核模块(ksu  .ko文件) （Magisk则是靠拥有root权限的进程）进行root
+因为是临时root——是依靠加载`内核模块`(ksu  .ko文件) （Magisk则是靠`拥有root权限的进程`）进行root
 
 并没有修改固件
 
-所以可以在不解锁Boot Loader的情况下root
+所以可以在不解锁`Boot Loader`的情况下root
 
 正因为没有修改固件
 
@@ -45,3 +47,4 @@ sidebar_label: 使用IonStack Root 你的Quest3/3s
 # 实践
 
 先去fork[这个仓库](https://github.com/F-19-F/IonStackQuest3)
+
