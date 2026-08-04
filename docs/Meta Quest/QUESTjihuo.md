@@ -1,3 +1,15 @@
+---
+sidebar_position: 1
+sidebar_label: 激活你的Quest
+---
+
+:::warning
+**注意**：
+我们正在补充本片文档
+
+:::
+
+
 # Quest上手激活教程
 
 本教程会尝试教会你激活你的Quest
@@ -36,7 +48,7 @@ Meta有一种推荐制度:向朋友推荐quest让他通过你的推荐连接注�
 
 建议用电话号码或者邮箱注册
 
-建议使用GmailH或者Outlook(QQ和163也行但是不建议)
+建议使用Gmail或者Outlook(QQ和163也行但是不建议)
 
 然后可能需要填写你的姓名和生日
 
@@ -48,7 +60,7 @@ Meta有一种推荐制度:向朋友推荐quest让他通过你的推荐连接注�
 
 去你的邮箱查看然后填写
 
-然后创建你的Meta Horizon 档案
+然后创建你的Meta Horizon档案
 
 填写你的名字用户名
 
