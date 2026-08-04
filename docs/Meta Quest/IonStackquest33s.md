@@ -46,5 +46,23 @@ sidebar_label: 使用IonStack Root 你的Quest3/3s
 
 # 实践
 
+:::warning
+**注意**：
+我们不对因恁所作的事情导致的任何后果承担责任
+
+所有责任需您自己承担！！！
+
+！！！请自行承担使用风险！！！
+
+:::
+
+
+## 准备
+
+你需要[adb工具包(Android SDK Platform-Tools)](https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn)、
+
+
+## 适配
+
 先去fork[这个仓库](https://github.com/F-19-F/IonStackQuest3)
 
