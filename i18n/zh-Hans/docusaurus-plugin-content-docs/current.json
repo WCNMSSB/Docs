@@ -22,5 +22,13 @@
   "sidebar.tutorialSidebar.category.Meta Quest.link.generated-index.description": {
     "message": "Leaen about your quest！",
     "description": "The generated-index page description for category 'Meta Quest' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.system update": {
+    "message": "系统更新",
+    "description": "The label for category 'system update' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.system update.link.generated-index.description": {
+    "message": "给你的Quest更新系统！",
+    "description": "The generated-index page description for category 'system update' in sidebar 'tutorialSidebar'"
   }
 }

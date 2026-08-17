@@ -14,5 +14,21 @@
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
     "message": "Tutorial - Extras",
     "description": "The label for category 'Tutorial - Extras' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Meta Quest": {
+    "message": "Meta Quest",
+    "description": "The label for category 'Meta Quest' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Meta Quest.link.generated-index.description": {
+    "message": "Leaen about your quest！",
+    "description": "The generated-index page description for category 'Meta Quest' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.system update": {
+    "message": "system update",
+    "description": "The label for category 'system update' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.system update.link.generated-index.description": {
+    "message": "update your quest！",
+    "description": "The generated-index page description for category 'system update' in sidebar 'tutorialSidebar'"
   }
 }
