@@ -157,8 +157,6 @@ XXXXX/adb>adb devices
 List of devices attached
 XXXXXXXXXXX  sideload
 ```
-
-
 ## 手动进入
 
 将你的Quest关机
@@ -185,7 +183,6 @@ XXXXX/adb>adb devices
 List of devices attached
 XXXXXXXXXXX  sideload
 ```
-
 # 侧载更新
 
 回到ADB窗口
@@ -215,7 +212,6 @@ Total xfer: 1.00x
 说明你的包比你当前的版本低
 
 或者版本差太大(需要几个版本几个版本升级)
-
 # 完成
 
 不出意外的话你的Quest会重启
