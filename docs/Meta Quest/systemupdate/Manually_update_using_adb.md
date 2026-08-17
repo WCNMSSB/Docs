@@ -127,7 +127,96 @@ Otherwise check for a confirmation dialog on your device.
 # 升级
 
 # 进入侧载更新模式
+## ADB命令
+
+在ADB命令行使用以下命令重启到sideload模式(设备开机)
+```bash
+adb reboot sideload
+```
+
+你的Quest应该会重启
+
+然后黑屏亮灯(3是紫色)
+
+此时在adb命令行输入
+
+```bash
+adb devices
+```
+你应该能看到
+
+```bash
+XXXXX/adb>adb devices
+List of devices attached
+XXXXXXXXXXX  sideload
+```
+
+
+## 手动进入
 
 将你的Quest关机
 
-然后按住`电源键`加`音量-`直至设备进rec？
+然后按住`电源键`加`音量-`直至设备进fastboot
+
+使用`音量-`将光标移动到`Sideload update`
+
+然后按下`电源键`
+
+你的Quest应该会重启
+
+然后黑屏亮灯(3是紫色)
+
+此时在adb命令行输入
+
+```bash
+adb devices
+```
+你应该能看到
+
+```bash
+XXXXX/adb>adb devices
+List of devices attached
+XXXXXXXXXXX  sideload
+```
+
+# 侧载更新
+
+回到ADB窗口
+
+输入`adb sideload `(注意最后有一个空格)
+
+然后把你的包拖进来
+
+回车
+
+不出意外应该开始了
+
+等他完成
+
+输出应该是这样的
+
+```bash
+XXXXX/adb>adb sideload E:\q3_52345320035400520.zip
+Total xfer: 2.00x
+```
+如果是
+
+```bash
+XXXXX/adb>adb sideload E:\q3_52345320035400520.zip
+Total xfer: 1.00x
+```
+说明你的包比你当前的版本低
+
+或者版本差太大(需要几个版本几个版本升级)
+
+# 完成
+
+不出意外的话你的Quest会重启
+
+然后等进系统即可
+
+接下来检查版本号
+
+如果是你侧载的版本
+
+恭喜你升级成功
