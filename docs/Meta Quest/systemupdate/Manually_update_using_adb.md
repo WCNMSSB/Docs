@@ -118,3 +118,8 @@ Otherwise check for a confirmation dialog on your device.
 
 选择你的设备
 
+`Incremental`一列就是固件版本
+
+选择比你新的、你想用的下载（点一下版本号就是下载）
+
+下载完成以后备用（可选复制到ADB文件夹和改名）
