@@ -2,9 +2,9 @@
 sidebar_position: 1
 sidebar_label: 激活你的Quest
 ---
+# Quest激活教程
 
-
-# Quest上手激活教程
+# Quest激活教程
 
 
 本教程会尝试教会你激活你的Quest

@@ -11,6 +11,8 @@ sidebar_label: 使用官方网站更新
 
 :::
 
+# 使用官方网站更新你的Quest
+
 # 准备
 
 你需要一根数据线、一台Windows电脑(装有Chrome或者Edge)、魔法网络
