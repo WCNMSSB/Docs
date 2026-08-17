@@ -21,7 +21,7 @@ sidebar_label: 使用IonStack Root 你的Quest3/3s
 
 Magisk视频教程
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117008196704035&bvid=BV1oA3t6PENC&cid=40439253706&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe style={{"width":"100%", "aspectRatio":"16/9"}} src="//player.bilibili.com/player.html?isOutside=true&aid=117008196704035&bvid=BV1oA3t6PENC&cid=40439253706&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 KSU视频教程
