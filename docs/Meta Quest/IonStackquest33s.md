@@ -26,7 +26,7 @@ Magisk视频教程
 
 KSU视频教程
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117014119063515&bvid=BV1rYGw6rEQG&cid=40472546593&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe style={{"width":"100%", "aspectRatio":"16/9"}} src="//player.bilibili.com/player.html?isOutside=true&aid=117014119063515&bvid=BV1rYGw6rEQG&cid=40472546593&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 # 简介
 
