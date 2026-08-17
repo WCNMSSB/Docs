@@ -125,6 +125,8 @@ Otherwise check for a confirmation dialog on your device.
 
 `头戴设备版本`那一栏就是固件版本
 
+示例图：
+
 ![mhfv](/docs/metaquest/systemupdate/mhfv.png)
 
 # 下载新版本固件
