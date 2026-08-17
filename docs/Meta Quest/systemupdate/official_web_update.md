@@ -106,6 +106,7 @@ Error claiming interface: Ensure no other tabs are accessing the device and that
 然后继续
 
 然后应该会出现
+![sru](/docs/metaquest/systemupdate/sysreadyup.png)
 
 ```bash
 Ready for download
@@ -123,3 +124,6 @@ Start download
 然后等待完成
 
 
+如果出现了以下情况请重新让设备进入Sideload模式后再试
+
+![dd](/docs/metaquest/systemupdate/devicediscon.png)
