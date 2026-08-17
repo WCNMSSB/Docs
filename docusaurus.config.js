@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '周-zhou Docs',
-  tagline: '来了ninnie',
+  tagline: '哈吉马路呦~',
   favicon: 'img/ZHOU.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
