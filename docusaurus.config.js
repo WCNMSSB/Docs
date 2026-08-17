@@ -86,6 +86,12 @@ const config = {
       colorMode: {
         respectPrefersColorScheme: true,
       },
+
+       tableOfContents: {
+    minHeadingLevel: 2,
+    maxHeadingLevel: 6,
+      },
+
       navbar: {
         title: '周-zhou Docs',
         logo: {
