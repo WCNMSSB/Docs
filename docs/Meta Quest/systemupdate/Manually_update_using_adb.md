@@ -123,3 +123,11 @@ Otherwise check for a confirmation dialog on your device.
 选择比你新的、你想用的下载（点一下版本号就是下载）
 
 下载完成以后备用（可选复制到ADB文件夹和改名）
+
+# 升级
+
+# 进入侧载更新模式
+
+将你的Quest关机
+
+然后按住`电源键`加`音量-`直至设备进rec？
