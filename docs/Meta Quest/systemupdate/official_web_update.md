@@ -37,6 +37,8 @@ ADB驱动自己装
 
 下面就是教程
 
+记得将Quest用数据线连接到电脑
+
 # 进入侧载更新模式
 ## ADB命令
 
@@ -124,6 +126,16 @@ Start download
 然后等待完成
 
 
-如果出现了以下情况请重新让设备进入Sideload模式后再试
+如果出现了下面的情况请重新让设备进入Sideload模式后再试
 
 ![dd](/docs/metaquest/systemupdate/devicediscon.png)
+
+如果出现了下面的情况请检查网络和魔法是否都正常后再试
+
+![fdf](/docs/metaquest/systemupdate/fdf.png)
+
+# 完成
+
+不出意外的话应该提示升级成功了
+
+等设备重启以后进系统即可
