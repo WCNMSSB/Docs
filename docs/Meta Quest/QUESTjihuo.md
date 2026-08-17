@@ -13,11 +13,6 @@ sidebar_label: 激活你的Quest
 
 本教程不教学关于如何使用魔法
 
-:::warning
-**注意**：
-我们正在补充本片文档
-
-:::
 
 ## 下载Meta Horizon
 
