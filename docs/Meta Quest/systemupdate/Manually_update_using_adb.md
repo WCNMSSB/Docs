@@ -35,7 +35,11 @@ sidebar_label: 手动使用adb更新
 
 使用数据线连接Quest
 
-然后输入`adb devices`
+然后输入
+
+```bash
+adb devices
+```
 
 不出一小会你的设备应该会弹出授权窗口，请允许它（建议始终允许）
 
