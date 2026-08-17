@@ -2,7 +2,6 @@
 sidebar_position: 1
 sidebar_label: 手动使用adb更新
 ---
-
 :::warning
 **注意**：
 ADB驱动自己装
@@ -10,12 +9,9 @@ ADB驱动自己装
 这个我不想教了，不会就去搜
 
 :::
-
 # 手动使用ADB更新你的固件
 
 准备:你的Quest、一根数据线(接口类型取决于你的设备，通常为typec to usba)、一台支持`ADB命令行工具(platform-tools)`并且支持连接设备的设备(最好可以上网)
-
-# 手动使用ADB更新你的固件
 
 
 # 下载ADB工具(platform-tools)
