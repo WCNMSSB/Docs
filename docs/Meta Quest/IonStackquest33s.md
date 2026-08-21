@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 10
 sidebar_label: 使用IonStack Root 你的Quest3/3s
 ---
 
