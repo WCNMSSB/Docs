@@ -115,7 +115,11 @@ Meta的所有服务都需要连接到Meta的服务器
 
 然后查看电脑ip
 
-可以通过点击`允许局域网接入Clash`右边的
+可以通过点击`允许局域网接入Clash`右边的![Clash网络接口查看](/docs/metaquest/cwljk.png)查看
+
+第三项的地址即为IP地址
+
+
 
 #### Meta助手
 
