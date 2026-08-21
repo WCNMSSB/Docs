@@ -67,9 +67,32 @@ Meta的所有服务都需要连接到Meta的服务器
 
 ### 头显自代理
 
+#### Clash For Android
+
+[下载Clash For Android](https://github.com/clashbk/clash_for_android/releases/tag/2.5.12)
+
+因为原库成滚木了所以放了第三方存储库
+
+激活以后下载完将文件放进头显（记住放的位置）
+
+#### NetProxy
+
 ### 电脑代理
+
+#### Clash For Windows
+
+#### Meta助手
 
 ### 手机
 
+#### NetProxy
+
+#### Proxy Server
+
 ### 软路由
 
+软路由是最方便稳定的方法之一
+
+但是咱没那东西QwQ
+
+所以还没研究
