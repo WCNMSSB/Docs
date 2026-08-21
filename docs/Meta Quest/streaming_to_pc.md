@@ -12,4 +12,21 @@ sidebar_label: 串流至PC
 
 ## VR模式
 
+### VD(Virtual Desktop)
+
+#### 无线
+
+#### 有线
+
+### Steam Link
+
+### ALVR
+
+### Ivry
+
+### Wivrn(Linux)
+
+###
+
 ## PC模式
+
