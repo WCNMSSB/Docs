@@ -162,7 +162,7 @@ Meta有一种推荐制度:向朋友推荐quest让他通过你的推荐连接注�
 
 ##### 使用Netproxy等（Root）
 
-打开Netproxy并给予root权限
+打开并安装Netproxy和其Magisk模块并给予root权限
 
 在节点选择正确订阅
 
