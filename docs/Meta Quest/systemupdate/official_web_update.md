@@ -13,7 +13,7 @@ sidebar_label: 使用官方网站更新
 
 # 使用官方网站更新你的Quest
 
-# 准备
+## 准备
 
 你需要一根数据线、一台Windows电脑(装有Chrome或者Edge)、魔法网络
 
@@ -25,7 +25,7 @@ ADB驱动自己装
 
 :::
 
-# 开始
+## 开始
 
 启动魔法网络
 
@@ -41,8 +41,9 @@ ADB驱动自己装
 
 记得将Quest用数据线连接到电脑
 
-# 进入侧载更新模式
-## ADB命令
+## 进入侧载更新模式
+
+### ADB命令
 
 在ADB命令行使用以下命令重启到sideload模式(设备开机)
 ```bash
@@ -74,7 +75,7 @@ XXXXXXXXXXX  sideload
 adb kill-server
 ```
 
-## 手动进入
+### 手动进入
 
 将你的Quest关机
 
@@ -88,7 +89,7 @@ adb kill-server
 
 然后黑屏亮灯(3是紫色)
 
-# 开始升级
+## 开始升级
 
 点击`Continue`直至`Connect device`页面
 
@@ -136,7 +137,7 @@ Start download
 
 ![fdf](/docs/metaquest/systemupdate/fdf.png)
 
-# 完成
+## 完成
 
 不出意外的话应该提示升级成功了
 
