@@ -155,9 +155,24 @@ Meta的所有服务都需要连接到Meta的服务器
 
 [Gnirehtet](https://github.com/Genymobile/gnirehtet/releases)
 
+`java`的需要安装java
+
+`rust`的不需要依赖（推荐）
+
+下载下来解压备用
+
 [adb工具包(Android SDK Platform-Tools)](https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn)
 
-下载这两个
+选择对应平台版本下载
+
+解压下来将platform-tools里面的所有文件复制到你解压的gnirehtet-XXXX-XXXXX文件夹里
+
+
+
+
+
+
+
 
 
 ##### Meta助手
