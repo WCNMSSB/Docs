@@ -3,6 +3,7 @@ sidebar_position: 2
 sidebar_label: quest网络问题
 ---
 
+:::
 **注意**：
 我们正在写本片文档
 
@@ -10,15 +11,15 @@ sidebar_label: quest网络问题
 
 # 解决quest网路问题
 
-# 解决网络连接受限/已连接到设备，但无法提供互联网连接
+## 解决网络连接受限/已连接到设备，但无法提供互联网连接
 
-## 原因
+### 原因
 
 自Android 5.0起(Meta Horizon OS现在基于安卓14)，谷歌引入了Captive Portal机制， 用于检测WiFi网络认证是否正常。 该机制默认检测访问的是谷歌服务器，要魔法网络才能访问，如若没有魔法就会出现网络受限的情况， WiFi图标上会出现一个感叹号标志，导致系统不能访问网络
 
-## 解决
+### 解决
 
-### 使用Quest助手
+#### 使用Quest助手
 
 [下载](https://quest.vrzwk.cn/download)并将`quest助手`安装至Quest
 
@@ -33,7 +34,7 @@ sidebar_label: quest网络问题
 然后重启即可
 
 
-### 使用adb
+#### 使用adb
 
 adb连接后输入
 
@@ -53,9 +54,9 @@ adb shell settings put global captive_portal_https_url https://connect.rom.miui.
 ```
 重启头显
 
-# 使用系统服务（系统更新、商店、APP更新等）
+## 使用系统服务（系统更新、商店、APP更新等）
 
-## 提要
+### 提要
 
 Meta的所有服务都需要连接到Meta的服务器
 
@@ -63,11 +64,11 @@ Meta的所有服务都需要连接到Meta的服务器
 
 所以需要魔法环境（须自备，本人不提供）
 
-## 选择魔法代理方式
+### 选择魔法代理方式
 
-### 头显自代理
+#### 头显自代理
 
-#### Clash For Android
+##### Clash For Android
 
 [下载Clash For Android](https://github.com/clashbk/clash_for_android/releases/tag/2.5.12)
 
@@ -103,11 +104,11 @@ Meta的所有服务都需要连接到Meta的服务器
 
 完成！
 
-#### NetProxy
+##### NetProxy
 
-### 电脑代理
+#### 电脑代理
 
-#### Clash For Windows
+##### Clash For Windows
 
 电脑安装完成并正确配置节点以后点击`常规`
 
@@ -121,15 +122,43 @@ Meta的所有服务都需要连接到Meta的服务器
 
 记住后边有用
 
-#### Meta助手
+戴上你的quest
 
-### 手机
+打开`设置`
 
-#### NetProxy
+点击`Wi-Fi`
 
-#### Proxy Server
+找到你的网络点击右侧的`连接`
 
-### 软路由
+直接点击`高级`
+
+点击代理下方的`无`
+
+选择`手动`
+
+代理主机名填写你电脑的ip地址（上边让你记了）
+
+代理端口看你Clash主页——常规-端口就是（默认是7890）
+
+填写进去
+
+然后点击确认
+
+然后输入密码连接
+
+此时应该就可以正常使用Meta的服务了
+
+如果不行请检查梯子和配置或者安装TAP网路适配器
+
+##### Meta助手
+
+#### 手机
+
+##### NetProxy
+
+##### Proxy Server
+
+#### 软路由
 
 软路由是最方便稳定的方法之一
 
