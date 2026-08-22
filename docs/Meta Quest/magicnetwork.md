@@ -167,13 +167,28 @@ Meta的所有服务都需要连接到Meta的服务器
 
 解压下来将platform-tools里面的所有文件复制到你解压的gnirehtet-XXXX-XXXXX文件夹里
 
+此时你的文件夹里应该有如下文件
+
+![gnirehtet_and_platform-tools](/docs/metaquest/gnirehtet_and_platform-tools.png)
+
+现在用数据线将Quest连接到电脑
+
+安装文件夹中的`gnirehtet.apk`
+
+安装完以后
+
+双击`gnirehtet-run.cmd`
 
 
+可能会弹出ADB授权窗口
 
+请允许(建议始终允许)
 
+然后会弹出VPN请求界面
 
+请允许
 
-
+此时应该就可以了
 
 ##### Meta助手
 
