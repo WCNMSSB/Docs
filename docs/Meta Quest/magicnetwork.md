@@ -104,8 +104,6 @@ Meta的所有服务都需要连接到Meta的服务器
 
 完成！
 
-##### NetProxy
-
 #### 电脑代理
 
 ##### Clash For Windows
@@ -121,6 +119,9 @@ Meta的所有服务都需要连接到Meta的服务器
 第三项的地址即为IP地址
 
 记住后边有用
+
+
+###### 无线连接
 
 戴上你的quest
 
@@ -150,7 +151,22 @@ Meta的所有服务都需要连接到Meta的服务器
 
 如果不行请检查梯子和配置或者安装TAP网路适配器
 
+###### 有线连接
+
+[Gnirehtet](https://github.com/Genymobile/gnirehtet/releases)
+
+[adb工具包(Android SDK Platform-Tools)](https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn)
+
+下载这两个
+
+
 ##### Meta助手
+
+[官网](https://ochelper.xlemon.cn/home.html)
+
+这里下载
+
+教程也有
 
 #### 手机
 
@@ -217,3 +233,7 @@ Meta的所有服务都需要连接到Meta的服务器
 但是咱没那东西QwQ
 
 所以还没研究
+
+### 完成
+
+此时你的服务应该都能用了
