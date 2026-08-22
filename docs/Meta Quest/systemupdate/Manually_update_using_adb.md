@@ -133,9 +133,9 @@ Otherwise check for a confirmation dialog on your device.
 
 ## 升级
 
-## 进入侧载更新模式
+### 进入侧载更新模式
 
-### ADB命令
+#### ADB命令
 
 在ADB命令行使用以下命令重启到sideload模式(设备开机)
 ```bash
@@ -158,7 +158,7 @@ XXXXX/adb>adb devices
 List of devices attached
 XXXXXXXXXXX  sideload
 ```
-### 手动进入
+#### 手动进入
 
 将你的Quest关机
 
@@ -184,7 +184,7 @@ XXXXX/adb>adb devices
 List of devices attached
 XXXXXXXXXXX  sideload
 ```
-## 侧载更新
+### 侧载更新
 
 回到ADB窗口
 
