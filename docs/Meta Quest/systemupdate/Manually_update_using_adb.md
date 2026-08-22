@@ -14,23 +14,23 @@ ADB驱动自己装
 准备:你的Quest、一根数据线(接口类型取决于你的设备，通常为typec to usba)、一台支持`ADB命令行工具(platform-tools)`并且支持连接设备的设备(最好可以上网)
 
 
-# 下载ADB工具(platform-tools)
+## 下载ADB工具(platform-tools)
 [点击这里前往谷歌官方网站](https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn)
 
 然后选择你对应平台的下载
 
 下载完成后解压备用
 
-# 获取你当前的固件版本
+## 获取你当前的固件版本
 
 因为Meta最近的大部分固件都无法回滚版本
 
 所以我们要确定当前版本（要不然白下）
 
-## 使用ADB查询
+### 使用ADB查询
 
 打开你解压的adb文件夹
-### Windows
+#### Windows
 
 点击上边的地址栏框，都删掉后
 输入`cmd`回车
@@ -93,7 +93,7 @@ Otherwise check for a confirmation dialog on your device.
 
 那么请重复授权步骤
 
-### 手机Meta Horizon
+#### 手机Meta Horizon
 
 **注意**：
 
@@ -119,7 +119,7 @@ Otherwise check for a confirmation dialog on your device.
 
 ![mhfv](/docs/metaquest/systemupdate/mhfv.jpg)
 
-# 下载新版本固件
+## 下载新版本固件
 
 前往[Cocaine.Trade](https://cocaine.trade/)
 
@@ -131,11 +131,11 @@ Otherwise check for a confirmation dialog on your device.
 
 下载完成以后备用（可选复制到ADB文件夹和改名）
 
-# 升级
+## 升级
 
-# 进入侧载更新模式
+## 进入侧载更新模式
 
-## ADB命令
+### ADB命令
 
 在ADB命令行使用以下命令重启到sideload模式(设备开机)
 ```bash
@@ -158,7 +158,7 @@ XXXXX/adb>adb devices
 List of devices attached
 XXXXXXXXXXX  sideload
 ```
-## 手动进入
+### 手动进入
 
 将你的Quest关机
 
@@ -184,7 +184,7 @@ XXXXX/adb>adb devices
 List of devices attached
 XXXXXXXXXXX  sideload
 ```
-# 侧载更新
+## 侧载更新
 
 回到ADB窗口
 
@@ -213,7 +213,7 @@ Total xfer: 1.00x
 说明你的包比你当前的版本低
 
 或者版本差太大(需要几个版本几个版本升级)
-# 完成
+## 完成
 
 不出意外的话你的Quest会重启
 
