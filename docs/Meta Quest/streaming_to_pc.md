@@ -73,9 +73,9 @@ Quest必要魔法网络
 
 [点我前往VD官网](https://www.vrdesktop.net/)
 
-[点我下载最新正式版VD电脑端！](https://files.vrdesktop.net/files/VirtualDesktop.Streamer.Setup.exe)
+[点我直接下载最新正式版VD电脑端！](https://files.vrdesktop.net/files/VirtualDesktop.Streamer.Setup.exe)
 
-[需要有线串流的点我下载最新Beta版VD电脑端！](https://download.vrdesktop.net/files/beta/VirtualDesktop.Streamer.Setup.exe)
+[需要有线串流的点我直接下载最新Beta版VD电脑端！](https://download.vrdesktop.net/files/beta/VirtualDesktop.Streamer.Setup.exe)
 
 需要有线无线来回用的也要下Beta版哦~
 
