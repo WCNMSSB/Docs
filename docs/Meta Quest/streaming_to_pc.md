@@ -126,7 +126,7 @@ Play For Dream没找到
 
 此时应该出现以下画面
 
-![VDTX](static/docs/metaquest/vdusername.png)
+![VDTX](/docs/metaquest/vdusername.png)
 
 
 
