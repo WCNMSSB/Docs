@@ -124,6 +124,10 @@ Play For Dream没找到
 
 安装完成以后打开它（Quest必须开着魔法、其他家不确定）
 
+此时应该出现以下画面
+
+![VDTX](/docs/metaquest/VDHS.png)
+
 
 
 #### 连接
