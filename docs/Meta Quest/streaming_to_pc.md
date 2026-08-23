@@ -61,13 +61,15 @@ Quest必要魔法网络
 
 ##### PC端
 
+###### 安装
+
 :::warning
 **注意**：
 ！！！Steam上的`Virtual Desktop Classic`没有串流功能！！！！！
 
 不要买！！！！
 
-下载VD电脑端不用付费！！！
+下载Virtual Desktop Streamer电脑端不用付费！！！
 
 :::
 
@@ -83,12 +85,46 @@ Quest必要魔法网络
 
 安装完以后应该会弹出窗口（如果没有就自己去打开）
 
+应该和下图相近或一样
 
+![刚装完的VDS](/docs/metaquest/VDN.png)
 
+###### 配置
 
+如果你知道你头显端的用户名你可以现在添加（下面会教你怎么填）
 
+查看电脑的状态栏的VD图标
+
+![VD灰色图标](/docs/metaquest/VDHS.png)
+
+如果是这样就无法连接
+
+你可能没有添加用户名（那就先不管），如果不是
+
+打开一次魔法让他变成和下图一样的黄色即可
+
+![VD黄色图标](/docs/metaquest/VDYL.png)
 
 ##### 头显端
+
+###### 安装
+
+打开你对应的头显端商店（手机或者头显端商店都行）
+
+这里放几个快捷链接
+
+[Meta Quest](https://www.meta.com/experiences/virtual-desktop/2017050365004772/)
+[Pico](https://store-global.picoxr.com/global/detail/1/3540)
+[Android XR](https://play.google.com/store/apps/details?id=virtualdesktop.android)
+[Viveport](https://www.viveport.com/apps/057d9b7a-02eb-4f98-8b1e-13e92680f3df)
+[Vive Business Store](https://business.vive.com/appstore/detail/057d9b7a-02eb-4f98-8b1e-13e92680f3df)
+Play For Dream没找到
+
+在对应的商店买完以后在头显的商店里安装（Quest需要魔法）（部分商店可以直接通过网站向头显发送下载命令）
+
+安装完成以后打开它（Quest必须开着魔法、其他家不确定）
+
+
 
 #### 连接
 
