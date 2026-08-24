@@ -23,6 +23,16 @@ sidebar_label: 串流至PC
 
 [点击我进入魔法网络有关的教学!](https://wcnmssb.github.io/Docs/docs/Meta%20Quest/magicnetwork)
 
+:::warning
+**注意**：
+大部分VR串流软件都需要SteamVR，请自己下载好并且初次启动配置并绑定系统默认OpenXR运行时
+
+开启SteamVR后点击SteamVR左边的三条杠-`设置`-`OpenXR`-`将SteamVR设置为OPENXR运行时`
+
+[点我前往Steam VR在Steam的商店页](https://store.steampowered.com/app/250820/SteamVR/)
+
+:::
+
 每个串流方式各有优点
 
 每个串流软件也各有不同
@@ -137,7 +147,7 @@ Play For Dream没找到
 
 ![VDADUESER](/docs/metaquest/VDADDUSERN.png)
 
-点击·`Add`添加以后就应该完成了
+点击`Add`添加以后就应该完成了
 
 如下图所示
 
@@ -159,9 +169,47 @@ Play For Dream没找到
 
 ##### 无线
 
+将你的电脑使用网线（建议且建议连接到千兆以上网口） Wifi(不建议但可用，至少5Ghz wifi5)
 
+打开头显端VD（Quest第一次需要梯子）
+
+打开完成以后应该如下图
+
+![VDok](/docs/metaquest/VDVRREADY.png)
+
+将你的头显连接到同一个网络
+
+此时应该会出现你的电脑
+
+点击它等待连接
+
+如果一直卡在Connecting.....就关掉魔法再连
+
+此时应该显示Connected就是连接成功了
+
+此时应该显示桌面
+
+按一下左手柄的菜单键打开菜单
+
+点击Launch SteamVR启动SteamVR串流
+
+此时你应该正常进入了SteamVR
+
+打开游戏开始玩吧！
 
 ##### 有线
+
+打开头显端VD（Quest第一次需要梯子）
+
+打开完成以后应该如下图
+
+![VDok](/docs/metaquest/VDVRREADY.png)
+
+将你的头显使用数据线连接到PC
+
+此时你的PC应该会
+
+
 
 ### Steam Link
 
