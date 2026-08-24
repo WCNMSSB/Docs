@@ -203,7 +203,7 @@ Play For Dream没找到
 
 打开完成以后应该如下图
 
-![VDok](/docs/metaquest/VDVRREADY.jpg)
+![VDvrok](/docs/metaquest/VDVRREADY.jpg)
 
 将你的头显使用数据线连接到PC
 
