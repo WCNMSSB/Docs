@@ -11,7 +11,7 @@ sidebar_label: 串流至PC
 
 # 串流至PC
 
-本篇文档会尝试教会你如何将你的Quest(quest （一代）除外，只有部分方法可用)串流至你的电脑
+本篇文档会尝试教会你如何将你的Quest(quest （一代）只有部分方法可用)串流至你的电脑
 
 你需要有一台电脑、路由器（建议5Ghz的WIfi6及以上）/一根数据线（USB3.0以上、需电脑也支持）、还有你的Quest
 
@@ -102,11 +102,11 @@ Quest必要魔法网络
 
 这里放几个快捷链接
 
-[Meta Quest](https://www.meta.com/experiences/virtual-desktop/2017050365004772/)
-[Pico](https://store-global.picoxr.com/global/detail/1/3540)
-[Android XR](https://play.google.com/store/apps/details?id=virtualdesktop.android)
-[Viveport](https://www.viveport.com/apps/057d9b7a-02eb-4f98-8b1e-13e92680f3df)
-[Vive Business Store](https://business.vive.com/appstore/detail/057d9b7a-02eb-4f98-8b1e-13e92680f3df)
+[Meta Quest](https://www.meta.com/experiences/virtual-desktop/2017050365004772/) | 
+[Pico](https://store-global.picoxr.com/global/detail/1/3540) | 
+[Android XR](https://play.google.com/store/apps/details?id=virtualdesktop.android) | 
+[Viveport](https://www.viveport.com/apps/057d9b7a-02eb-4f98-8b1e-13e92680f3df) | 
+[Vive Business Store](https://business.vive.com/appstore/detail/057d9b7a-02eb-4f98-8b1e-13e92680f3df) | 
 Play For Dream没找到
 
 在对应的商店买完以后在头显的商店里安装（Quest需要魔法）（部分商店可以直接通过网站向头显发送下载命令）
@@ -125,9 +125,22 @@ Play For Dream没找到
 
 按图示填写到VD中
 
+点击`Add account`
+
 ![VDADDUSER](/docs/metaquest/VDADD.png)
+
+选择你对应头显的平台
+
 ![VDACC](/docs/metaquest/VDADDCC.png)
+
+在输入框输入你的用户名
+
 ![VDADUESER](/docs/metaquest/VDADDUSERN.png)
+
+点击·`Add`添加以后就应该完成了
+
+如下图所示
+
 ![VDPCOK](/docs/metaquest/VDPCOK.png)
 
 查看电脑的状态栏的VD图标
@@ -142,11 +155,11 @@ Play For Dream没找到
 
 ![VD黄色图标](/docs/metaquest/VDYL.png)
 
-
-
 #### 连接
 
 ##### 无线
+
+
 
 ##### 有线
 
