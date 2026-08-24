@@ -250,7 +250,7 @@ Play For Dream没找到
 
 #### 使用
 
-打开并连接上5Ghzwifi
+打开头显端并连接上5Ghzwifi
 
 摘到你的电脑点击它
 
