@@ -199,16 +199,41 @@ Play For Dream没找到
 
 ##### 有线
 
+此方案目前只支持Quest且需要Meta Horizon OS V2.6（头显VD左下角206以上）
+
+打开头显系统设置
+
+左边一栏找到Link点击
+
+右边往下滑找到USB连接
+
+确保应用的USB连接为开启
+
 打开头显端VD（Quest第一次需要梯子）
 
 打开完成以后应该如下图
 
 ![VDvrok](/docs/metaquest/VDVRREADY.jpg)
 
-将你的头显使用数据线连接到PC
+将你的头显使用数据线连接到PC(不要允许文件访问)
 
-此时你的PC应该会
+此时右上角应该会弹出连接规格和速度
 
+不出意外一小会就会显示你的电脑
+
+点击连接即可
+
+此时应该显示Connected就是连接成功了
+
+此时应该显示桌面
+
+按一下左手柄的菜单键打开菜单
+
+点击Launch SteamVR启动SteamVR串流
+
+此时你应该正常进入了SteamVR
+
+打开游戏开始玩吧！
 
 
 ### Steam Link
