@@ -238,6 +238,32 @@ Play For Dream没找到
 
 ### Steam Link
 
+#### PC端
+
+只需要安装Steam VR即可
+
+#### 头显端
+
+在各家应用商店搜索Steam Link或者Steam流式应用
+
+找到并下载安装
+
+打开并连接上5Ghzwifi
+
+摘到你的电脑点击它
+
+点VR模式的图标
+
+再点击配对
+
+不出意外头显内会出现4个数字
+
+PC会弹出一个窗口
+
+将头显的数字输入进去点确认
+
+然后等连接即可
+
 ### Meta Horizon Link(Meta Quest Link/Oculus)
 
 ### ALVR
