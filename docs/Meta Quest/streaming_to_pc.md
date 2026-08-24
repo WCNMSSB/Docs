@@ -175,7 +175,7 @@ Play For Dream没找到
 
 打开完成以后应该如下图
 
-![VDok](/docs/metaquest/VDVRREADY.png)
+![VDvrok](/docs/metaquest/VDVRREADY.jpg)
 
 将你的头显连接到同一个网络
 
