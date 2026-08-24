@@ -125,6 +125,10 @@ Play For Dream没找到
 
 按图示填写到VD中
 
+![VDADDUSER](/docs/metaquest/VDADD.png)
+![VDACC](/docs/metaquest/VDADDCC.png)
+![VDADUESER](/docs/metaquest/VDADDUSERN.png)
+![VDPCOK](/docs/metaquest/VDPCOK.png)
 
 查看电脑的状态栏的VD图标
 
