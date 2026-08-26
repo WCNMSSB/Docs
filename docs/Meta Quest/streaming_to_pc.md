@@ -274,6 +274,10 @@ PC会弹出一个窗口
 
 [点我前往Ivry在Steam的商店页](https://store.steampowered.com/app/992490/iVRy_Driver_for_SteamVR/)
 
+添加到库以后下载
+
+然后启动时选择
+
 ### Wivrn(Linux)
 
 ###
