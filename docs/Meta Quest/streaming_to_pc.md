@@ -274,6 +274,8 @@ PC会弹出一个窗口
 
 [点我前往Ivry在Steam的商店页](https://store.steampowered.com/app/992490/iVRy_Driver_for_SteamVR/)
 
+Apple Vision Pro 需要自己去Store下 [这是链接](https://apps.apple.com/us/app/ivry/id1210129937)
+
 添加到库以后下载
 
 然后启动时选择XXXXXXXX（你对应的设备）app Installer 启动
@@ -289,6 +291,19 @@ PC会弹出一个窗口
 没有就自己启动
 
 确保启动项打开了
+
+
+:::warning
+
+**注意**：
+可能会导致Steamvr因为端口占用等问题无法启动
+
+问题还没排查
+
+只能禁用或卸载附加详情或者启动项
+
+:::
+
 
 
 
