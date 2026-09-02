@@ -114,7 +114,7 @@ Meta的所有服务都需要连接到Meta的服务器
 
 然后查看电脑ip
 
-可以通过点击`允许局域网接入Clash`右边的![Clash网络接口查看](/docs/metaquest/cwljk.png)查看
+可以通过点击`允许局域网接入Clash`右边的![Clash网络接口查看](/docs/vr/metaquest/cwljk.png)查看
 
 第三项的地址即为IP地址
 
@@ -169,7 +169,7 @@ Meta的所有服务都需要连接到Meta的服务器
 
 此时你的文件夹里应该有如下文件
 
-![gnirehtet_and_platform-tools](/docs/metaquest/gnirehtet_and_platform-tools.png)
+![gnirehtet_and_platform-tools](/docs/vr/metaquest/gnirehtet_and_platform-tools.png)
 
 现在用数据线将Quest连接到电脑
 

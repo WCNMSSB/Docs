@@ -117,7 +117,7 @@ Otherwise check for a confirmation dialog on your device.
 
 示例图：
 
-![mhfv](/docs/metaquest/systemupdate/mhfv.jpg)
+![mhfv](/docs/vr/metaquest/systemupdate/mhfv.jpg)
 
 ## 下载新版本固件
 

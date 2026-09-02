@@ -97,7 +97,7 @@ Quest必要魔法网络
 
 应该和下图相近或一样
 
-![刚装完的VDS](/docs/metaquest/VDN.png)
+![刚装完的VDS](/docs/vr/metaquest/VDN.png)
 
 ###### 配置
 
@@ -129,7 +129,7 @@ Play For Dream没找到
 
 此时头显端应该出现以下画面
 
-![VDTX](/docs/metaquest/vdusername.png)
+![VDTX](/docs/vr/metaquest/vdusername.png)
 
 图中箭头指的红色框框内的蓝色字体就是`用户名`
 
@@ -137,25 +137,25 @@ Play For Dream没找到
 
 点击`Add account`
 
-![VDADDUSER](/docs/metaquest/VDADD.png)
+![VDADDUSER](/docs/vr/metaquest/VDADD.png)
 
 选择你对应头显的平台
 
-![VDACC](/docs/metaquest/VDADDCC.png)
+![VDACC](/docs/vr/metaquest/VDADDCC.png)
 
 在输入框输入你的用户名
 
-![VDADUESER](/docs/metaquest/VDADDUSERN.png)
+![VDADUESER](/docs/vr/metaquest/VDADDUSERN.png)
 
 点击`Add`添加以后就应该完成了
 
 如下图所示
 
-![VDPCOK](/docs/metaquest/VDPCOK.png)
+![VDPCOK](/docs/vr/metaquest/VDPCOK.png)
 
 查看电脑的状态栏的VD图标
 
-![VD灰色图标](/docs/metaquest/VDHS.png)
+![VD灰色图标](/docs/vr/metaquest/VDHS.png)
 
 如果是这样就无法连接
 
@@ -163,7 +163,7 @@ Play For Dream没找到
 
 打开一次魔法让他变成和下图一样的黄色即可
 
-![VD黄色图标](/docs/metaquest/VDYL.png)
+![VD黄色图标](/docs/vr/metaquest/VDYL.png)
 
 #### 连接
 
@@ -175,7 +175,7 @@ Play For Dream没找到
 
 打开完成以后应该如下图
 
-![VDvrok](/docs/metaquest/VDVRREADY.jpg)
+![VDvrok](/docs/vr/metaquest/VDVRREADY.jpg)
 
 将你的头显连接到同一个网络
 
@@ -213,7 +213,7 @@ Play For Dream没找到
 
 打开完成以后应该如下图
 
-![VDvrok](/docs/metaquest/VDVRREADY.jpg)
+![VDvrok](/docs/vr/metaquest/VDVRREADY.jpg)
 
 将你的头显使用数据线连接到PC(不要允许文件访问)
 
