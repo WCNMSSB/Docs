@@ -52,7 +52,12 @@ SteamVR已经被普遍认为是VR区的必备！
 
 ### Linux
 
+## 登陆Steam
+
+
 ## 安装SteamVR
+
+### 快捷命令
 
 确保Steam正在正常运行且完成了登录
 
@@ -66,3 +71,23 @@ steam://install/250820
 点击安装
 
 等待安装完成
+
+安装完成后启动STEAMVR
+
+### 网页安装
+
+[点我前往SteamVR在Steam上的商店页](https://store.steampowered.com/app/250820/SteamVR/)
+
+登陆你的Steam账户
+
+点击添加到库
+
+然后点击马上开玩
+
+也可以回到Steam
+
+点击库
+
+在左侧列表中找到SteamVR
+
+点击安装
