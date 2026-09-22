@@ -238,3 +238,10 @@ Meta有一种推荐制度:向朋友推荐quest让他通过你的推荐连接注�
 然后就进入到系统界面了
 
 你已经激活了你的设备！
+
+## 资源
+
+Meta Horizon/Proxy Server/clash for Windows/Netproxy模块
+
+https://wwaop.lanzoum.com/b01d792eud
+密码:40s2
