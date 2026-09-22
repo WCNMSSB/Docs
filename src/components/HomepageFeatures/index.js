@@ -4,26 +4,26 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Do for love',
+    title: '简单易学',
     description: (
       <>
-        Do you love me !!!
+       使用简单易懂的方式 !!!
       </>
     ),
   },
   {
-    title: 'Do for love',
+    title: '人肉编写QWQ',
     description: (
       <>
-        Do you love me !!!
+        纯人类编写 !!!
       </>
     ),
   },
   {
-    title: 'Easy to learn',
+    title: '我是啥子',
     description: (
       <>
-        sure!
+        ？
       </>
     ),
   },

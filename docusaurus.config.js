@@ -134,7 +134,7 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: 'GitHub Docs Repositories Pages',
                 href: 'https://github.com/WCNMSSB/Docs',
               },
             ],

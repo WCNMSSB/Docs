@@ -24,11 +24,11 @@
     "description": "The label of footer link with label=Blog linking to /blog"
   },
   "link.item.label.GitHub": {
-    "message": "GitHub",
+    "message": "GitHub文档仓库页",
     "description": "The label of footer link with label=GitHub linking to https://github.com/WCNMSSB/Docs"
   },
   "copyright": {
-    "message": "Copyright © 2026 周-zhou. Built with Docusaurus.",
+    "message": "Copyright © 2026 周-zhou. 使用 Docusaurus 大力驱动.",
     "description": "The footer copyright"
   }
 }
