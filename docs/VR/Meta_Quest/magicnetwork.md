@@ -19,6 +19,7 @@ sidebar_label: quest网络问题
 
 ### 解决
 
+
 #### 使用Quest助手
 
 [下载](https://quest.vrzwk.cn/download)并将`quest助手`安装至Quest
@@ -63,6 +64,8 @@ Meta的所有服务都需要连接到Meta的服务器
 但是这玩意在国外还被墙了
 
 所以需要魔法环境（须自备，本人不提供）
+
+UU这个东西我不教，因为部分Quest服务不可用
 
 ### 选择魔法代理方式
 
