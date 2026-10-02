@@ -53,7 +53,7 @@ SteamVR已经被普遍认为是VR区的必备！
 ### Linux
 
 ## 登陆Steam
-
+（注册STEAM账号不教，自己去搜）
 
 ## 安装SteamVR
 
