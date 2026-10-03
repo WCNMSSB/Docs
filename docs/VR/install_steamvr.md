@@ -97,3 +97,6 @@ steam://install/250820
 点击安装
 
 ### 初次设置
+
+打开SteamVR
+
