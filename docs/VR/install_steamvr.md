@@ -100,3 +100,4 @@ steam://install/250820
 
 打开SteamVR
 
+![rqzwsz](/docs/vr/steamvr/ziwoshezhi.png)
