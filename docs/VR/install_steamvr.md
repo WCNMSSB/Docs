@@ -117,6 +117,12 @@ steam://install/250820
 
 点击`设置`
 
+
+
 在弹出的SteamVR设置窗口中点击`OpenXR`
 
 点击`将STEAMVR设置为OPENXR运行时`
+
+授予管理员权限后完成
+
+## 完成
