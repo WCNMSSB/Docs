@@ -20,6 +20,8 @@ SteamVR已经被普遍认为是VR区的必备！
 
 ## 安装STEAM
 
+安装SteamVR需要Steam，所以接下来下载
+
 ### Windows
 
 打开你电脑的浏览器（列如Edge/chrome/firefox）
