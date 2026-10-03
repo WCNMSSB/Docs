@@ -100,4 +100,15 @@ steam://install/250820
 
 打开SteamVR
 
+你应该会看到如下图的画面
+
+
 ![rqzwsz](/docs/vr/steamvr/ziwoshezhi.png)
+
+点击图中红色框的按钮并授权管理员权限
+
+然后提示窗口应该消失了
+
+变成了如下图的窗口
+
+![steamvrhello](/docs/vr/steamvr/steamvrhello.png)
