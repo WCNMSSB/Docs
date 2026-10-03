@@ -105,7 +105,7 @@ steam://install/250820
 
 ![rqzwsz](/docs/vr/steamvr/ziwoshezhi.png)
 
-点击图中红色框的按钮并授权管理员权限
+点击图中红色框的`更新权限`按钮并授权管理员权限
 
 然后提示窗口应该消失了
 
@@ -115,5 +115,8 @@ steam://install/250820
 
 点击左上角的三条横杠
 
-点击设置
+点击`设置`
 
+在弹出的SteamVR设置窗口中点击`OpenXR`
+
+点击`将STEAMVR设置为OPENXR运行时`
