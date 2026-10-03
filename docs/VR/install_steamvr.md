@@ -112,3 +112,8 @@ steam://install/250820
 变成了如下图的窗口
 
 ![steamvrhello](/docs/vr/steamvr/steamvrhello.png)
+
+点击左上角的三条横杠
+
+点击设置
+
