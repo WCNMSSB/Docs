@@ -52,6 +52,63 @@ SteamVR已经被普遍认为是VR区的必备！
 
 ### Linux
 
+#### 命令行安装
+
+
+##### Debian系（Debian，Ubuntu······）
+
+```bash
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt install steam -y
+```
+##### 通用方案
+
+（其实不太会，装不上就去网上搜吧QWQ）
+
+先安装Flatpak
+
+```bash
+# Ubuntu/Debian
+sudo apt install flatpak
+```
+```bash
+# Fedora
+sudo dnf install flatpak
+```
+```bash
+# Arch
+sudo pacman -S flatpak
+```
+接下来安装Steam
+
+```bash
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak install flathub com.valvesoftware.Steam -y
+```
+
+安装完以后点击`Install steam`或`Steam`
+
+等待更新启动
+
+#### deb包安装
+
+[点击前往Steam官网下载页](https://store.steampowered.com/about/)
+
+点击安装Steam（先确认按钮右边的标是否是Steam标，其实是SteamOS的标志）
+
+等待下载
+
+下载完成后双击可以尝试安装
+
+不行就打开终端
+
+检查是否拥有APT，如果没有就去装
+
+输入sudo apt install [你的Steam_latest.deb]
+
+
+
 ## 登陆Steam
 （注册STEAM账号不教，自己去搜）
 
@@ -117,12 +174,16 @@ steam://install/250820
 
 点击`设置`
 
-
+![SteamVR menu](/docs/vr/steamvr/steamvrtouchmenu.png)
 
 在弹出的SteamVR设置窗口中点击`OpenXR`
 
 点击`将STEAMVR设置为OPENXR运行时`
 
+![SteamVR Set N Runtime](/docs/vr/steamvr/touchandsetopenxr.png)
+
 授予管理员权限后完成
 
 ## 完成
+
+恭喜你完成了基础的初次配置
