@@ -23,9 +23,80 @@ sidebar_label: 安装Magisk
 :::
 ## 下载
 
+去(magisk的GitHub发布页)[https://github.com/topjohnwu/Magisk/releases]
+
+下载你需要的版本的`Magisk-vxx.x.apk`(列如Magisk-v30.7.apk)
+
 ## 修补
+
+获取的设备的Boot分区镜像（部分需要获取init_boot或者ramdisk分区）（是.img结尾）
+
+如果你无法获取但是你的设备有第三方Recovery（如Twrp，橙狐等）
+
+你可以跳过此步骤
+
+### 修补设备镜像
+
+将`Magisk-vxx.x.apk`安装到你的设备上
+
+将你提取到的.img镜像复制到设备上
+
+打开你刚才安装的`Magisk`
+
+点击`安装`，选择`选择并修补镜像`
+
+选择你刚才复制到设备上的.img镜像
+
+等待修补完成
+
+修补完成后找到你修补的.img镜像（在Download文件夹）
+
+将他复制到电脑（如果你要是用Recovery刷入则不用）
+
+### 直接刷入
+
+将你下载的`Magisk-vxx.x.apk`重命名将后缀改成.zip
+
+复制到设备里并记住路径
+
+（此方案不适用fastboot刷入）
 
 ## 刷入
 
+确定你的手机已经解锁了Bootloader！！！如果没有你将无法刷入/刷入后设备无法启动
+
+### fastboot
+
+将你的手机重启到fastboot模式
+
+输入
+```bash
+fastboot flash [你设备需要刷入的分区] [你刚复制出来的镜像]
+```
+
+回车后等待刷入
+
+刷入后重启
+
+### Recovery
+
+将你的设备重启到Recovery
+
+选择安装/刷入
+
+找到你的.img/.zip(twrp要点击`刷入镜像`才可以刷入.img)
+
+选择继续/刷入
+
+选择正确的分区并刷入（twrp是滑动滑块）
+
+等待安装/刷入完成
+
+重启
+
 ## 测试
+
+待设备重新启动后进入`Magisk`点击`超级用户`/`模块`应该可以点开
+
+恭喜你已经成功安装`Magisk`
 
