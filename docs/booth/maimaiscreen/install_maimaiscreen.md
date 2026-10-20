@@ -11,4 +11,4 @@ sidebar_label: 安装maimai用Screen
 
 :::
 
-[Booth详情页]()
+[Booth详情页](https://wcnmssb.booth.pm/items/7277342)
